@@ -1,0 +1,9 @@
+{
+  "name": "SWAN NEWS",
+  "description": "A sophisticated news application powered by Gemini 3 Flash with real-time Google Search grounding. Get elegant, summarized insights from around the world.",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera",
+    "microphone"
+  ]
+}
